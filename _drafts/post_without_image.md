@@ -1,19 +1,13 @@
 ---
-layout: page
-#
-# Content
-#
-subheadline: ""
-title: ""
-teaser: ""
+title: ''
+date: 2016-10-23 19:19:59.415000000 Z
 categories:
-  - 
-tags:
-  - 
+- 
+- ''
+layout: page
+subheadline: ''
+teaser: ''
 ---
-
-
-
 
  [1]: #
  [2]: #
