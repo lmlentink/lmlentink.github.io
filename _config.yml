@@ -29,10 +29,10 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 credits: <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a
   href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling
   Responsive</a>.</p>
-url: http://www.juflisanne.nl
+url: "://www.juflisanne.nl"
 baseurl: 
 improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
-urlimg: http://www.juflisanne.nl/images/
+urlimg: "://www.juflisanne.nl/images/"
 logo: logo.png
 gems:
 - jekyll-asciidoc
