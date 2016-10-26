@@ -65,7 +65,7 @@ compress_html:
     envs:
     - development
 msapplication_tileimage: msapplication_tileimage.png
-msapplication_tilecolor: "#fabb00"
+msapplication_tilecolor: "#DF4949"
 og_image: http://images.phlow.de/phlow/phlow_de-logo-512x.png
 og_locale: en_EN
 og_type: website
