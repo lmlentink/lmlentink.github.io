@@ -1,10 +1,19 @@
-- title: Start
+- title: JufLisanne
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: School en klas
+  url: "/school-en-klas/"
   side: left
+  dropdown:
+  - title: "Veilige leeromgeving"
+    url: "/school-en-klas/veilige-leeromgeving/"
+  - title: "Klasinrichting"
+    url: "/school-en-klas/klasinrichting/"
+  - title: "Hoeken in de klas"
+    url: "/school-en-klas/hoeken/"
+  - title: "Materialen"
+    url: "/school-en-klas/materialen/"
 
 - title: "Templates"
   url: "/design/"
