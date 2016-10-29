@@ -53,7 +53,7 @@ exclude:
 - LICENSE
 - README.md
 - INSTALL.md
-language: en
+language: nl
 compress_html:
   clippings: all
   comments:
@@ -64,11 +64,6 @@ compress_html:
   ignore:
     envs:
     - development
-msapplication_tileimage: msapplication_tileimage.png
-msapplication_tilecolor: "#DF4949"
-og_image: http://images.phlow.de/phlow/phlow_de-logo-512x.png
-og_locale: en_EN
-og_type: website
 sass:
   sass_dir: _sass
   style: compressed
