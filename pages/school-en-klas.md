@@ -8,6 +8,5 @@ header:
   image_fullwidth: vlinders.JPG
 ---
 
-
  [1]: {{ site.url }}/documentation/
 
