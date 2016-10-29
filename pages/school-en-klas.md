@@ -10,7 +10,6 @@ header:
   image_fullwidth: header_homepage_13.jpg
 ---
 
-
 <a class="radius button small" href="{{ site.url }}/documentation/">Check out the documentation for all the tricks ›</a>
 
 
