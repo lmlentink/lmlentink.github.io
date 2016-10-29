@@ -23,7 +23,7 @@ defaults:
     show_meta: true
     comments: false
     author: phlow
-slogan: Enthousiaste kleuterjuf uit de polder
+slogan: Enthousiaste kleuterjuf
 description: 'JufLisanne.nl is een website vol met leuke lesideeën en inzichten over
   het huidige kleuteronderwijs. '
 credits: <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a
@@ -33,7 +33,7 @@ url: http://www.juflisanne.nl
 baseurl: 
 improve_content: https://github.com/lmlentink/lmlentink.github.io
 urlimg: http://www.juflisanne.nl/images/
-logo: 187.JPG
+logo: blondamsterdamjuf.jpg
 gems:
 - jekyll-asciidoc
 - jekyll-gist
