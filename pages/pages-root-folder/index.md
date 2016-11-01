@@ -7,7 +7,7 @@ widget1:
   title: Over Juf Lisanne
   url: http://www.juflisanne.nl/info/
   image: widget-1-302x182.jpg
-  text: Hoi, ik ben juf Lisanne. Bij deze wil ik mij graag even voorstellen! 
+  text: Hoi, ik ben juf Lisanne. Bij deze wil ik mij graag even voorstellen!
 widget2:
   title: Titel
   url: http://www.juflisanne.nl/info/
