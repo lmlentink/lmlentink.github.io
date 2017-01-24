@@ -11,7 +11,7 @@ widget1:
 widget2:
   title: Titel
   url: http://www.juflisanne.nl/info/
-  image: widget-1-302x182.jpg
+  image: Lisannekrullen.jpg
   text: Tekst
 widget3:
   title: Titel
