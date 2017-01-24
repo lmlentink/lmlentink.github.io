@@ -2,7 +2,7 @@
 permalink: "/index.html"
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: bloemenmand.jpg
 widget1:
   title: Over Juf Lisanne
   url: http://www.juflisanne.nl/info/
