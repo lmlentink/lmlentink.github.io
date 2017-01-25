@@ -19,10 +19,10 @@
   url: "/themas/"
   side: left
   dropdown:
-  - title: "Sinterklaas"
-    url: "/themas/sinterklaas/"
-  - title: "Kerst"
-    url: "/themas/kerst/"
+  - title: "Winter"
+    url: "/themas/winter/"
+  - title: "Dino's"
+    url: "/themas/dinos/"
 
 - title: "Taal"
   url: "/taal/"
