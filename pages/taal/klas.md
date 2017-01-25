@@ -1,5 +1,6 @@
 ---
 ---
+
 title: Taal in de klas
 permalink: "/taal/klas/"
 layout: page-fullwidth
