@@ -6,3 +6,4 @@ teaser: Welke vaardigheden zijn er?
 header:
   image_fullwidth: laptop.jpg
 ---
+
