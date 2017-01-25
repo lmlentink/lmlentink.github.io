@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 teaser: Belangrijke vaardigheden voor de toekomst
 header:
-  image_fullwidth: verf.JPG
+  image_fullwidth: laptop.JPG
 ---
 
  [1]: {{ site.url }}/documentation/
