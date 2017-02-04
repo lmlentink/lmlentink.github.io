@@ -6,10 +6,6 @@ show_meta: false
 teaser: Belangrijke vaardigheden voor de toekomst
 header:
   image_fullwidth: verf.JPG
----
-
-
-loren 
-*lorem* 
+--- 
 
  [1]: {{ site.url }}/documentation/
