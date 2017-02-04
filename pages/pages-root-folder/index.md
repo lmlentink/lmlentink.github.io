@@ -16,7 +16,7 @@ widget2:
 widget3:
   title: Thema Winter
   url: http://www.juflisanne.nl/themas/winter/
-  image: Winter-300x200.jpg
+  image: winter-300x200.jpg
   text: Het thema van de maand!
 homepage: true
 ---
