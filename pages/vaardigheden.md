@@ -1,7 +1,4 @@
 ---
----
-
----
 title: De 21e eeuwse vaardigheden
 permalink: "/vaardigheden/"
 layout: page
@@ -11,6 +8,4 @@ header:
   image_fullwidth: laptop.JPG
  ---
  
-
- 
- 
+ [1]: {{ site.url }}/documentation/
