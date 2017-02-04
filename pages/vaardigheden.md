@@ -12,7 +12,6 @@ header:
  ---
  
 
- [1]: {{ site.url }}/documentation/
  
  lorenimpuslala
  *lorem*
