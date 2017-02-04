@@ -1,3 +1,4 @@
+---
 title: De 21e eeuwse vaardigheden
  permalink: "/vaardigheden/"
  layout: page
@@ -5,6 +6,7 @@ title: De 21e eeuwse vaardigheden
  teaser: Belangrijke vaardigheden voor de toekomst
  header:
    image_fullwidth: laptop.JPG
+ ---
  
  Ik vind het persoonlijk een erg interessant onderwerp. Mijn afstudeeronderzoek heb ik hier over gedaan en ik zie dat er inmiddels alweer zoveel is veranderd en bijgekomen over dit onderwerp! Maar waarom is dit zo’n veel besproken onderwerp?
  
@@ -16,7 +18,7 @@ title: De 21e eeuwse vaardigheden
  Die vaardigheden zullen we kinderen moeten aanleren, maar dit betekent dus ook een verandering voor ons als leerkrachten! 
  
  
----
+
   
 [1]: {{ site.url }}/documentation/
 
