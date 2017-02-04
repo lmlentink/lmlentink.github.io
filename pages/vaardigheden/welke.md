@@ -7,4 +7,5 @@ header:
   image_fullwidth: laptop.jpg
 ---
 
-image: model-vaardigheden.jpg
+image:
+  title: model-vaardigheden.jpg
