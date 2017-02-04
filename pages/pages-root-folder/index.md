@@ -18,11 +18,6 @@ widget3:
   url: http://www.juflisanne.nl/info/
   image: widget-1-302x182.jpg
   text: Tekst
-callforaction:
-  url: http://www.juflisanne.nl/info/
-  text: Meer weten over Juf Lisanne ›
-  style: alert
-homepage: true
 ---
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
