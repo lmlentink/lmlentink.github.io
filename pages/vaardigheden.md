@@ -1,5 +1,6 @@
 ---
 ---
+
 title: De 21e eeuwse vaardigheden
  permalink: "/vaardigheden/"
  layout: page
