@@ -7,7 +7,8 @@ header:
   image_fullwidth: laptop.jpg
 ---
 
----
+ [1]: {{ site.url }}/documentation/
+
 meta_teaser: Hieronder is een tabel te zien waar alle vaardigheden in staan
 image_url: model-vaardigheden.jpg
----
+
