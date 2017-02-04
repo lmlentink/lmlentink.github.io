@@ -9,6 +9,18 @@ header:
 
  [1]: {{ site.url }}/documentation/
 
-meta_teaser: Hieronder is een tabel te zien waar alle vaardigheden in staan
+
+Hieronder is een tabel te zien waar alle vaardigheden in staan
 image_url: model-vaardigheden.jpg
 
+-Creatief denken
+-Probleem oplossen
+-Computational thinking
+-Informatie vaardigheden
+-ICT- basis vaardigheden
+-Media wijsheid
+-Communiceren
+-Samenwerken
+-Sociale & culturele vaardigheden
+-Zelfregulering
+-Kritisch denken
