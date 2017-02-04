@@ -1,7 +1,8 @@
 ---
 title: De 21 eeuwse vaardigheden
 teaser: Belangrijke vaardigheden voor de toekomst
-header: 'image_fullwidth: laptop.JPG'
+header:
+  image_fullwidth: laptop.jpg
 ---
 
 ---
