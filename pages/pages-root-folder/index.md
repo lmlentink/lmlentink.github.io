@@ -9,19 +9,15 @@ widget1:
   image: widget-1-302x182.jpg
   text: Hoi, ik ben juf Lisanne. Bij deze wil ik mij graag even voorstellen!
 widget2:
-  title: Titel
-  url: http://www.juflisanne.nl/info/
-  image: Lisannekrullen.jpg
-  text: Tekst
+  title: De 21e eeuwse vaardigheden
+  url: http://www.juflisanne.nl/vaardigheden/
+  image: laptop-302x182.jpg
+  text: Belangrijke vaardigheden voor de toekomst
 widget3:
   title: Titel
   url: http://www.juflisanne.nl/info/
   image: widget-1-302x182.jpg
   text: Tekst
-callforaction:
-  url: http://www.juflisanne.nl/info/
-  text: Meer weten over Juf Lisanne ›
-  style: alert
 homepage: true
 ---
 
