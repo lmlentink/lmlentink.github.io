@@ -10,4 +10,3 @@ image:
   title: model-vaardigheden.jpg
 ---
 
-
