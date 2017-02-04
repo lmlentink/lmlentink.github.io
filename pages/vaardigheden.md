@@ -4,7 +4,7 @@ permalink: "/vaardigheden/"
 show_meta: false
 teaser: Belangrijke vaardigheden voor de toekomst
 header:
-  image_fullwidth: laptop.JPG
+  image_fullwidth: laptop.jpg
 layout: page
 ---
 
