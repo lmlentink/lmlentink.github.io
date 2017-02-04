@@ -5,7 +5,7 @@ layout: page
 show_meta: false
 teaser: Rekenvaardigheden in de kleuterklas
 header:
-  image_fullwidth: bloem.JPG
+  image_fullwidth: klok.jpg
 ---
 
  [1]: {{ site.url }}/documentation/
