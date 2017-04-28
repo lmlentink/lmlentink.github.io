@@ -13,7 +13,7 @@ header:
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}thema-winter-2.jpg" alt="">h
+      <img src="{{ site.urlimg }}thema-winter-2.jpg" alt="">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
