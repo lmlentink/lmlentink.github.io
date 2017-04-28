@@ -11,23 +11,24 @@ Hoeken zijn in een kleuterklas erg belangrijk. De kinderen spelen, leren en ontd
 
 
 In de kleuterklas heb je vaak een paar vaste hoeken zoals:
-###
+##
 - Huishoek
 - Bouwhoek
 - Constructiehoek
 - Lees/schrijfhoek
 - Atelier 
 - Computerhoek/Tablets
-###
+##
 
 Je kunt heel makkelijk de vaste hoeken in de klas verrijken door daar nieuwe elementen aan toe te voegen. Maar daarnaast zijn er ook nog andere leuke hoeken die je kunt maken, die eventueel bij je thema horen of om eens wat te wisselen in de klas. Ideeën kunnen zijn: 
-•	Rekenhoek
-•	Winkelhoek
-•	Timmerhoek
-•	Zand/watertafel
-•	Muziekhoek
-•	Ontdekhoek 
-
+##
+- Rekenhoek
+- Winkelhoek
+- Timmerhoek
+- Zand/watertafel
+- Muziekhoek
+- Ontdekhoek 
+##
 De hoeken zijn hieronder uitgewerkt.
 
 **Huishoek**
