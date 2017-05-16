@@ -33,7 +33,7 @@ url: http://www.juflisanne.nl
 baseurl: 
 improve_content: https://github.com/lmlentink/lmlentink.github.io
 urlimg: http://www.juflisanne.nl/images/
-logo: logojuf.png
+logo: Logoklein.png
 gems:
 - jekyll-asciidoc
 - jekyll-gist
